@@ -1,9 +1,8 @@
 package school.mjc.stage0.loops.task2;
 
 public class Multiplication {
-    public static void main (String[] args){
-        int multiplyByAndToInclusive = -5;
-//    public void printMultiplied(int multiplyByAndToInclusive) {
+
+    public void printMultiplied(int multiplyByAndToInclusive) {
         if (multiplyByAndToInclusive > 0){
             int i = 0;
             int sum = 0;
